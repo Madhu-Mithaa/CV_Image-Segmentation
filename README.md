@@ -10,3 +10,7 @@ Otsu’s method is an adaptive thresholding way for binarization in image proces
 
  In edge-based segmentation, an edge filter is applied to the image, pixels are classified as edge or non-edge depending on the filter output, and pixels which are not separated by an edge are allocated to the same category. 
  
+ ## Contributors
+Vijayasri Iyer & Madhumithaa V
+
+ 
